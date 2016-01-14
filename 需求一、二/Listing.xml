@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+     <barcode type="ITEM000000">
+          <name>可口可乐</name>
+          <unit>瓶</unit>
+          <price>3.00</price>
+          <discount>1</discount>
+          <promotion>false</promotion>
+
+     </barcode>
+     
+     <barcode type="ITEM000001">
+          <name>雪碧</name>
+          <unit>瓶</unit>
+          <price>3.00</price>
+          <discount>0.8</discount>
+          <promotion>false</promotion>>
+
+     </barcode>
+     
+     <barcode type="ITEM000002">
+          <name>电池</name>
+          <unit>个</unit>
+          <price>1.00</price>
+          <discount>1</discount>
+          <promotion>true</promotion>>
+
+     </barcode>
+
+</goods>
